@@ -1,0 +1,8 @@
+Use d3dImage to let DirectX in cpp can be drawing on WPF
+
+Requirement
+-MS Visual Studio 2010
+-DirectX9
+
+2012.12.16
+created3dDevice, clearColor has been proven.
