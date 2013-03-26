@@ -34,8 +34,7 @@ namespace WpfDirectX
         }
 
         public void Dispose()
-        {
-            test111
+        {            
          //   UninitializeDirectX();
            // _directXManager.Dispose();
         }
