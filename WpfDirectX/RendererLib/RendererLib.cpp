@@ -10,6 +10,7 @@ void RendererManager::Initialize( unsigned int height, unsigned int width, IntPt
 {
 	HRESULT hr;
 
+        int test = 128;
 	hr = CreateD3DObject( height, width, windowHandle );
 
 	if ( hr == S_OK )
