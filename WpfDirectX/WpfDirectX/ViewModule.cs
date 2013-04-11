@@ -16,7 +16,7 @@ namespace WpfDirectX
 
         public ViewModule(uint width, uint height, IntPtr windowHandle)
         {
-            int test = 100;
+            int test = 103;
             _windowWidth = width;
             _windowHeight = height;
             _renderer = new RendererManager();
